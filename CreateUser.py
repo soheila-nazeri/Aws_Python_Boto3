@@ -6,4 +6,4 @@ def create_user(username):
     response=iam.create_user(UserName=username)
     print(response)
 
-create_user("soheila_nazeri")
+create_user("samira_nazeri")
