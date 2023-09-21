@@ -1,0 +1,5 @@
+so*.csv
+venv/
+venv*/
+.idea/
+terminal.txt
